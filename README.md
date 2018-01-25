@@ -1,3 +1,7 @@
-# Applied_CS_with_Android_Assam_Engineering_College_(AEC)
+# Google : Applied CS with Android
+Assam_Engineering_College_(AEC)
+-
+<img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/aec.jpg">
+
 As a Facilitator of my college for <b>Google's</b>, Applied CS wit Android, we had lot of fun learning Android, Data Structure and Algorithms. 
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/google.jpg">
