@@ -1,5 +1,5 @@
 # Google : Applied CS with Android
-Assam_Engineering_College_(AEC)
+College : Assam Engineering College (AEC), Guwahati
 -
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/aec.jpg">
 
