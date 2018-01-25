@@ -25,7 +25,7 @@ In the second week of session, we covered other 5 apps followed by a CODESPRINT 
     
 It was fun, memorable and at the same time pretty exciting to learn the most used Data Structure and Algorithms. Thank you <b>Google</b>, for providing such opportunity to connect and learn.
 
-<img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/google.jpg">
+<img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/g.jpg">
 
 
 WEEK 1 :
