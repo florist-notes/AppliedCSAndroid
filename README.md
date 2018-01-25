@@ -7,7 +7,7 @@ As a Facilitator of my college for <b>Google's</b>, Applied CS with Android, thi
 
 I have a blog post here about my experience at <b>Google, Bangalore</b> . Also, do check out the videos :)
 
-We hosted 2 sessions of Applied CS in AEC. In the first session, we covered 5 apps followed by a codesprint:
+We hosted 2 weeks of sessions, on Applied CS with Android in AEC. In the first week of session, we covered 5 apps followed by a codesprint:
     
     1. Anagrams
     2. Scarne's Dice
@@ -15,7 +15,7 @@ We hosted 2 sessions of Applied CS in AEC. In the first session, we covered 5 ap
     4. Black Hole 
     5. Puzzle 8
 
-In the second session, we covered other 5 apps apps followed by a codesprint:
+In the second week of session, we covered other 5 apps apps followed by a codesprint:
 
     1. Anagrams
     2. WordStack
@@ -25,3 +25,28 @@ In the second session, we covered other 5 apps apps followed by a codesprint:
     
 It was fun, memorable and at the same time pretty exciting to learn the most used Data Structure and Algorithms. Thank you <b>Google</b>, for providing such opportunity to connect and learn.
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/google.jpg">
+
+
+WEEK 1 :
+-
+Applications completed :
+
+CODESPRINT 1:
+-
+Apps Made :
+
+
+
+WEEK 2 :
+-
+
+Applications completed :
+
+CODESPRINT 2:
+-
+
+Apps Made:
+
+
+
+_____________________________________________________________________________________________🅰🅿🅿🅻🅸🅴🅳 🅲🆂 🆆🅸🆃🅷 🅰🅽🅳🆁🅾🅸🅳
