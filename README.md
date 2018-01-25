@@ -17,8 +17,8 @@ We hosted 2 weeks of sessions, on Applied CS with Android in AEC. In the first w
 
 In the second week of session, we covered other 5 apps followed by a CODESPRINT :
 
-    1. Anagrams
-    2. WordStack
+    1. Word Stack
+    2. Binary Search Tree Viewer
     3. Ghost I
     4. Ghost II
     5. Continental Divide 
