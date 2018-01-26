@@ -18,7 +18,7 @@ We hosted 2 weeks of sessions, on Applied CS with Android in AEC. In the first w
     4. Black Hole 
     5. Puzzle 8
 
-In the second week of session, we covered other 5 apps followed by a CODESPRINT :
+In the second week of session, we covered other 5 apps followed by a CODESPRINT : [ Not conducted till 2 Feb 2018, will update ]
 
     1. Word Stack
     2. Binary Search Tree Viewer
