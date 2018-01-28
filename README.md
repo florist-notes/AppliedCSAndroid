@@ -38,7 +38,7 @@ Setting Up Android Studio , syncing build/gradle is the most time consuming thin
 WEEK 1 :
 -
 Applications completed :
-1. <b>Anagrams</b> [Saikia](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/1_Anagrams)
+1. <b>Anagrams</b> by - [Saikia](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/1_Anagrams)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/anagrams.jpg">
 
 CODESPRINT 1:
