@@ -38,19 +38,19 @@ Setting Up Android Studio , syncing build/gradle is the most time consuming thin
 WEEK 1 :
 -
 Applications completed :
-1. <b>Anagrams</b> by - [Saikia](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/1_Anagrams)
+1. <b>Anagrams</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/1_Anagrams)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/anagrams.jpg">
 
-2. <b>Scarne's Dice</b> by - [Saikia](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/2_Scarne's%2BDice)
+2. <b>Scarne's Dice</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/2_Scarne's%2BDice)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/scarnes__dice.jpg">
 
-2. <b>Word Ladder</b> by - [Saikia](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/3_Word%2BLadder)
+2. <b>Word Ladder</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/3_Word%2BLadder)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/word__ladder.jpg">
 
-2. <b>Black Hole</b> by - [Saikia](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/2_Scarne's%2BDice)
+2. <b>Black Hole</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/4_Black%2BHole)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/black_hole.jpg">
 
-5. <b>Puzzle 8</b> by - [Saikia](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/5_Puzzle%2B8) [[Video]](https://youtu.be/ln97PcSTphY)
+5. <b>Puzzle 8</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/5_Puzzle%2B8) [[Video]](https://youtu.be/ln97PcSTphY)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/puzzle8.gif">
 
 
