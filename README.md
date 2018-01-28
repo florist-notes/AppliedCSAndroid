@@ -37,6 +37,13 @@ Setting Up Android Studio , syncing build/gradle is the most time consuming thin
 
 WEEK 1 :
 -
+Concepts Learned:
+
+        -> ArrayLists, HashSets, and HashMaps
+        -> A* Search Algorithm, Manhattan Distance
+        -> Minimax Algorithm, Monte Carlo Method, Graph Traversal ( BFS + DFS ), Alpha Beta Pruning
+        -> Heap, Priority Queue, Stack, Queue
+        
 Applications completed :
 1. <b>Anagrams</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/1_Anagrams)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/anagrams.jpg">
@@ -44,10 +51,10 @@ Applications completed :
 2. <b>Scarne's Dice</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/2_Scarne's%2BDice)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/scarnes__dice.jpg">
 
-2. <b>Word Ladder</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/3_Word%2BLadder)
+3. <b>Word Ladder</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/3_Word%2BLadder)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/word__ladder.jpg">
 
-2. <b>Black Hole</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/4_Black%2BHole)
+4. <b>Black Hole</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/4_Black%2BHole)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/black_hole.jpg">
 
 5. <b>Puzzle 8</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/5_Puzzle%2B8) [[Video]](https://youtu.be/ln97PcSTphY)
