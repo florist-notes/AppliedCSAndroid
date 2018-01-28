@@ -45,7 +45,7 @@ Applications completed :
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/scarnes__dice.jpg">
 
 2. <b>Word Ladder</b> by - [Saikia](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/3_Word%2BLadder)
-<img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/word_ladder.jpg">
+<img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/word__ladder.jpg">
 
 2. <b>Black Hole</b> by - [Saikia](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/2_Scarne's%2BDice)
 <img src="#">
