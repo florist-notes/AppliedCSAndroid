@@ -44,7 +44,13 @@ Applications completed :
 2. <b>Scarne's Dice</b> by - [Saikia](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/2_Scarne's%2BDice)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/scarnes__dice.jpg">
 
-5. <b>Puzzle 8</b> by - [Saikia](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/2_Scarne's%2BDice) [[Video]](https://youtu.be/ln97PcSTphY)
+2. <b>Word Ladder</b> by - [Saikia](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/2_Scarne's%2BDice)
+<img src="#">
+
+2. <b>Black Hole</b> by - [Saikia](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/2_Scarne's%2BDice)
+<img src="#">
+
+5. <b>Puzzle 8</b> by - [Saikia](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/5_Puzzle%2B8) [[Video]](https://youtu.be/ln97PcSTphY)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/puzzle8.gif">
 
 
