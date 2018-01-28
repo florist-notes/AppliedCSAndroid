@@ -42,7 +42,7 @@ Applications completed :
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/anagrams.jpg">
 
 2. <b>Scarne's Dice</b> by - [Saikia](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/2_Scarne's%2BDice)
-<img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/scarnes_dice.jpg">
+<img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/scarnes__dice.jpg">
 
 
 CODESPRINT 1:
