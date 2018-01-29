@@ -69,8 +69,16 @@ Apps Made :
 
 WEEK 2 :
 -
+Concepts Learned:
 
+        -> Stacks, Tree & Trie
+        -> Binary Search Trees, AVL Trees
+        -> Dynamic Programming, Greedy Programming & Recursive Programming
+        -> Linked List, Circular Linked list & Travelling Salesperson Problem
+        
 Applications completed :
+1. <b>[Word Stack](https://youtu.be/deq84jNGCR4)</b> by - [root]()
+<img src="">
 
 CODESPRINT 2:
 -
