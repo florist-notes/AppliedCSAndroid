@@ -22,8 +22,8 @@ In the second week of session, we covered other 5 apps followed by a CODESPRINT 
 
     1. Word Stack
     2. Binary Search Tree Viewer
-    3. Ghost I
-    4. Ghost II
+    3. Ghost I & II
+    4. Touring Musician
     5. Continental Divide 
     
 It was fun, memorable and at the same time pretty exciting to learn the most used Data Structure and Algorithms. Thank you <b>Google</b>, for providing such an opportunity to connect and learn.
@@ -45,7 +45,7 @@ Concepts Learned:
         -> Heap, Priority Queue, Stack, Queue
         
 Applications completed :
-1. <b>Anagrams</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/1_Anagrams)
+1. <b>[Anagrams](https://youtu.be/_C33CdeHgrc)</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/1_Anagrams)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/anagrams.jpg">
 
 2. <b>Scarne's Dice</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/2_Scarne's%2BDice)
