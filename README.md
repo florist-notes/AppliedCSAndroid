@@ -10,7 +10,7 @@ I have a blog post [here [will update later]]() about my experience at <b>Google
         <vid> [Journey to Google]( https://youtu.be/tatcYwEfvcE )
         <vid> [Google's Applied CS @ AEC]()
 
-We hosted 2 weeks of sessions, on Applied CS with Android in AEC. In the first week of session, we covered 5 apps followed by a CODESPRINT:
+We hosted 2 weeks of sessions, on [Applied CS with Android](https://cswithandroid.withgoogle.com/) ( [playlist](https://www.youtube.com/watch?v=5LhlA4A_Vv4&list=PLObwPhL-cU6hUPScqhve5VX-3L5jm7xCQ&index=12) ) in AEC. In the first week of session, we covered 5 apps followed by a CODESPRINT:
     
     1. Anagrams
     2. Scarne's Dice
@@ -48,16 +48,16 @@ Applications completed :
 1. <b>[Anagrams](https://youtu.be/_C33CdeHgrc)</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/1_Anagrams)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/anagrams.jpg">
 
-2. <b>Scarne's Dice</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/2_Scarne's%2BDice)
+2. <b>[Scarne's Dice](https://youtu.be/r65MpuDkbh0)</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/2_Scarne's%2BDice)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/scarnes__dice.jpg">
 
-3. <b>Word Ladder</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/3_Word%2BLadder)
+3. <b>[Word Ladder](https://youtu.be/pscNb5OSyNQ)</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/3_Word%2BLadder)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/word__ladder.jpg">
 
-4. <b>Black Hole</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/4_Black%2BHole)
+4. <b>[Black Hole](https://youtu.be/o8ojAtCh2Hc)</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/4_Black%2BHole)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/black_hole.jpg">
 
-5. <b>Puzzle 8</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/5_Puzzle%2B8) [[Video]](https://youtu.be/ln97PcSTphY)
+5. <b>[Puzzle 8](https://youtu.be/5LhlA4A_Vv4)</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/5_Puzzle%2B8) [[Video]](https://youtu.be/ln97PcSTphY)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/puzzle8.gif">
 
 
