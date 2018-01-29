@@ -66,9 +66,11 @@ CODESPRINT 1:
 Apps Made :
 
 
-Successfully completed Session 1
+Successfully completed Week 1 :)
+-
 
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/happy.gif">
+
 WEEK 2 :
 -
 Concepts Learned:
