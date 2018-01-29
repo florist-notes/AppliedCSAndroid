@@ -80,6 +80,9 @@ Apps Made:
 My Learnings
 -
 
-[Here](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS) are the Applied CS Apps that I completed, and I made a social network messenger ( a WhatsApp clone ) called skk available [here](https://github.com/SKKSaikia/skk).
+[Here](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS) are all the Applied CS Apps that I completed.
+
+
+        Thanks for visiting :)
 
 ________________________________________________________________________🅰🅿🅿🅻🅸🅴🅳 🅲🆂 🆆🅸🆃🅷 🅰🅽🅳🆁🅾🅸🅳
