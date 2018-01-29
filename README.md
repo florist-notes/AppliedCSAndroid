@@ -80,9 +80,9 @@ Apps Made:
 Takeaway
 -
 
-[Here](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS) are all the Applied CS Apps that I completed. The data structure and algorithms that I learnt are dear, the leadership qualities that I built and the whole journey is close to my heart:)
+[Here](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS) are all the Applied CS Apps that I completed. The data structure and algorithms that I learnt are dear, the leadership qualities that I built and the whole journey is close to my heart :)
 
 
-        Thanks for visiting :)
+        Thank You for visiting :)
 
 ________________________________________________________________________🅰🅿🅿🅻🅸🅴🅳 🅲🆂 🆆🅸🆃🅷 🅰🅽🅳🆁🅾🅸🅳
