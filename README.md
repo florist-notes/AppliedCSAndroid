@@ -63,7 +63,7 @@ Applications completed :
 
 CODESPRINT 1:
 -
-Apps Made : [JoyRide](https://github.com/SKKSaikia/JoyRide)
+Apps Made : [JoyRide (Unity) ](https://github.com/SKKSaikia/JoyRide)
 
 
 Successfully completed Week 1 :)
