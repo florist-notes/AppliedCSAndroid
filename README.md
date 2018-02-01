@@ -22,9 +22,9 @@ In the second week of session, we covered other 5 apps followed by another CODES
 
     1. Word Stack
     2. Binary Search Tree Viewer
-    3. Ghost I & II
-    4. Touring Musician
-    5. Continental Divide 
+    3. Ghost I 
+    4. Ghost II
+    5. Touring Musician 
     
 It was fun, memorable and at the same time pretty exciting to learn the most used Data Structure and Algorithms. Thank you <b>Google</b>, for providing such an opportunity to connect and learn.
 
