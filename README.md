@@ -73,6 +73,7 @@ Successfully completed Week 1 :)
 
 WEEK 2 :
 -
+<img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/g2.jpg">
 Concepts Learned:
 
         -> Stacks, Tree & Trie
