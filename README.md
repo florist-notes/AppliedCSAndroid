@@ -85,16 +85,16 @@ Applications completed :
 1. <b>[Word Stack](https://youtu.be/deq84jNGCR4)</b> by - [root]()
 <img src="">
 
-1. <b>[Ghost I](https://youtu.be/0GrB1Vn5RZw)</b> by - [root]()
+2. <b>[Ghost I](https://youtu.be/0GrB1Vn5RZw)</b> by - [root]()
 <img src="">
 
-1. <b>[Ghost II](https://youtu.be/8jnntriorQQ)</b> by - [root]()
+3. <b>[Ghost II](https://youtu.be/8jnntriorQQ)</b> by - [root]()
 <img src="">
 
-1. <b>[Binary Search Tree Viewer](https://youtu.be/YEZo8n2y2v4)</b> by - [root]()
+4. <b>[Binary Search Tree Viewer](https://youtu.be/YEZo8n2y2v4)</b> by - [root]()
 <img src="">
 
-1. <b>[Touring Musician](https://youtu.be/pzL8zDb2HHQ)</b> by - [root]()
+5. <b>[Touring Musician](https://youtu.be/pzL8zDb2HHQ)</b> by - [root]()
 <img src="">
 
 CODESPRINT 2:
