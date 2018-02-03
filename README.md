@@ -1,4 +1,4 @@
-# Google : Applied CS with [Android](https://developer.android.com/index.html)
+# [Google](https://developers.google.com/training/android/) : Applied CS with [Android](https://developer.android.com/index.html)
 College : Assam Engineering College (AEC), Guwahati
 -
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/aec.jpg">
