@@ -54,7 +54,7 @@ public class GhostActivity extends AppCompatActivity {
         AssetManager assetManager = getAssets();
         try {
             InputStream inputStream = assetManager.open("words.txt");
-            dictionary = new FastDictionary(inputStream);
+            dictionary = new SimpleDictionary(inputStream);
         } catch (IOException e) {
             Toast toast = Toast.makeText(this, "Could not load dictionary", Toast.LENGTH_LONG);
             toast.show();
