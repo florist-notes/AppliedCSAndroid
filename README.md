@@ -97,7 +97,7 @@ Applications covered :
 CODESPRINT 2:
 -
 
-Apps Made: [CrossDroad (Unity)](https://github.com/SKKSaikia/CrossDroad/)
+Apps Made: [Image Slider](https://github.com/tahiraaktar/Image_Slider), [CrossDroad (Unity)](https://github.com/SKKSaikia/CrossDroad/)
 
 Takeaway
 -
