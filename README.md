@@ -44,7 +44,7 @@ Concepts Learned:
         -> Minimax Algorithm, Monte Carlo Method, Graph Traversal ( BFS + DFS ), Alpha Beta Pruning
         -> Heap, Priority Queue, Stack, Queue
         
-Applications completed :
+Applications covered :
 1. <b>[Anagrams](https://youtu.be/_C33CdeHgrc)</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/1_Anagrams)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/anagrams.jpg">
 
@@ -81,13 +81,11 @@ Concepts Learned:
         -> Dynamic Programming, Greedy Programming & Recursive Programming
         -> Linked List, Circular Linked list & Travelling Salesperson Problem
         
-Applications completed :
-1. <b>[Word Stack](https://youtu.be/deq84jNGCR4)</b> by - [root]()
-<img src="">
+Applications covered :
+1. <b>[Word Stack](https://youtu.be/deq84jNGCR4)</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/6_Word%2BStack)
+<img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/ws.jpg">
 
 2. <b>[Ghost I](https://youtu.be/0GrB1Vn5RZw)</b> by - [root]()
-<img src="">
-
 3. <b>[Ghost II](https://youtu.be/8jnntriorQQ)</b> by - [root]()
 <img src="">
 
