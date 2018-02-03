@@ -85,8 +85,8 @@ Applications covered :
 1. <b>[Word Stack](https://youtu.be/deq84jNGCR4)</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/6_Word%2BStack)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/ws.jpg">
 
-2. <b>[Ghost I](https://youtu.be/0GrB1Vn5RZw)</b> by - [root]() , 3. <b>[Ghost II](https://youtu.be/8jnntriorQQ)</b> by - [root]()
-<img src="">
+2. <b>[Ghost I](https://youtu.be/0GrB1Vn5RZw)</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/8_Ghost%2B1) , 3. <b>[Ghost II](https://youtu.be/8jnntriorQQ)</b> by - [root]()
+<img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/ghost.jpg">
 
 4. <b>[Binary Search Tree Viewer](https://youtu.be/YEZo8n2y2v4)</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/7_Binary%2BSearch%2BTree%2BViewer)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/bst.jpg">
