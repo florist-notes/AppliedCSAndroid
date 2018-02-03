@@ -26,7 +26,7 @@ In the second week of session, we covered other 5 apps followed by another CODES
     4. Ghost II
     5. Touring Musician 
     
-It was fun, memorable and at the same time pretty exciting to learn the most used Data Structure and Algorithms. Thank you <b>Google</b>, for providing such an opportunity to connect and learn.
+It was fun, memorable and at the same time pretty exciting to learn the most popular Data Structure and Algorithms. Thank you <b>Google</b>, for providing such an opportunity to connect and learn.
 
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/g.jpg">
 
