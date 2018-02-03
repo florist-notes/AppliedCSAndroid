@@ -94,8 +94,8 @@ Applications completed :
 4. <b>[Binary Search Tree Viewer](https://youtu.be/YEZo8n2y2v4)</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/7_Binary%2BSearch%2BTree%2BViewer)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/bst.jpg">
 
-5. <b>[Touring Musician](https://youtu.be/pzL8zDb2HHQ)</b> by - [root]()
-<img src="">
+5. <b>[Touring Musician](https://youtu.be/pzL8zDb2HHQ)</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/10_TouringMusician)
+<img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/tm.gif">
 
 CODESPRINT 2:
 -
