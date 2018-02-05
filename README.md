@@ -8,7 +8,7 @@ As a Facilitator of my college for <b>Google's</b>, Applied CS with Android [201
 I have a blog post [here [will update later]]() about my experience at <b>Google, Bangalore</b> . Also, do check out the videos :)
 
         <vid> [Journey to Google]( https://youtu.be/tatcYwEfvcE )
-        <vid> [Google's Applied CS @ AEC]()
+        <vid> [Google's Applied CS @ AEC]( https://youtu.be/PmuDhvJxrhM )
 
 We hosted 2 weeks of sessions, of [Applied CS with Android](https://cswithandroid.withgoogle.com/) ( [playlist](https://www.youtube.com/watch?v=5LhlA4A_Vv4&list=PLObwPhL-cU6hUPScqhve5VX-3L5jm7xCQ&index=12) ) in AEC. In the first week of session, we covered 5 apps followed by a CODESPRINT:
     
