@@ -48,7 +48,7 @@ Applications covered :
 1. <b>[Anagrams](https://youtu.be/_C33CdeHgrc)</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/1_Anagrams)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/anagrams.jpg">
 
-2. <b>[Scarne's Dice](https://youtu.be/r65MpuDkbh0)</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/2_Scarne's%2BDice)
+2. <b>[Scarne's Dice](https://youtu.be/r65MpuDkbh0)</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/2_Scarne's%2BDice), [Nishi](https://github.com/Nishicphukan786/dice)
 <img src="https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/blob/master/photo/scarnes__dice.jpg">
 
 3. <b>[Word Ladder](https://youtu.be/pscNb5OSyNQ)</b> by - [root](https://github.com/SKKSaikia/Applied-CS-with-Android-AEC/tree/master/Applied_CS/3_Word%2BLadder)
