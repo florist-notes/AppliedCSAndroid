@@ -97,7 +97,7 @@ Applications covered :
 CODESPRINT 2:
 -
 
-Apps Made: [Image Slider](https://github.com/tahiraaktar/Image_Slider), [Rock Paper Scissor](https://github.com/Hardik97Das/Rock_Paper_Scissor/) , [CrossDroad (Unity)](https://github.com/SKKSaikia/CrossDroad/)
+Apps Made: [Alarm Clock](https://github.com/pulkits962/app), [Image Slider](https://github.com/tahiraaktar/Image_Slider), [Rock Paper Scissor](https://github.com/Hardik97Das/Rock_Paper_Scissor/) , [CrossDroad (Unity)](https://github.com/SKKSaikia/CrossDroad/)
 
 Takeaway
 -
