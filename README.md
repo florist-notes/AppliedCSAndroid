@@ -63,7 +63,7 @@ Applications covered :
 
 CODESPRINT 1:
 -
-Apps Made : [Memory Game](https://github.com/Nishicphukan786/matching-game), [Catch the Sound](https://github.com/Priyangshuyogi/CatchtheSound), [JoyRide (Unity) ](https://github.com/SKKSaikia/JoyRide)
+Apps Made : [Uber Car Animation](https://github.com/imzndp/UberCar_Animation), [Memory Game](https://github.com/Nishicphukan786/matching-game), [Catch the Sound](https://github.com/Priyangshuyogi/CatchtheSound), [JoyRide (Unity) ](https://github.com/SKKSaikia/JoyRide)
 
 
 Successfully completed Week 1 :)
