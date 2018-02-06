@@ -33,7 +33,7 @@ It was fun, memorable and at the same time pretty exciting to learn the most pop
 GETTING STARTED
 -
 
-Setting Up Android Studio , syncing build/gradle is the most time consuming thing in the workshop. It downloads & downloads ....& downloads dependencies. Slow Internet Connection, might be Fatal to time ! :D . In the meantime , We looked at <b>MIT App Inventor</b>, explained how easy it is to build Android Apps in MIT App inventor. I have a repository [here](https://github.com/SKKSaikia/MIT-App-Inventor) outlining the works done.
+Setting Up Android Studio , syncing build/gradle is the most time consuming thing in the workshop. It downloads & downloads ....& downloads dependencies. Slow Internet Connection, might be Fatal to time ! :D . In the meantime , We looked at <b>MIT App Inventor</b>, explained how easy it is to build Android Apps in MIT App inventor. I have a repository ✿ [here](https://github.com/SKKSaikia/MIT-App-Inventor) outlining the works done.
 
 WEEK 1 :
 -
