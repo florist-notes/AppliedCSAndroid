@@ -5,7 +5,7 @@ College : Assam Engineering College (AEC), Guwahati
 
 As a Facilitator of my college for <b>Google's</b>, Applied CS with Android [2017-18], this repository holds all the code and memories made during the flipped classroom program days in AEC. It is the passion that makes it worth it to live the experience of coding and forming beautiful solutions out of it. We formed a family " Applied CS" family, a strong bond and connection cherishing goodwill and support. It is the inner drive that we have, to achieve what we do.
 
-I have a blog post [here [will update later]]() about my experience at <b>Google, Bangalore</b> . Also, do check out the videos :)
+Applied CS was a full-paid invitation to Google Bangalore, to attend bootcamp on Android and the Applied CS program.I have a blog post [here [will update later]]() about my experience at <b>Google, Bangalore</b> . Also, do check out the videos :)
 
         <vid> [Journey to Google]( https://youtu.be/tatcYwEfvcE )
         <vid> [Google's Applied CS @ AEC]( https://youtu.be/PmuDhvJxrhM )
